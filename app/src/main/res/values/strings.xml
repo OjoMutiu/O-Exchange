@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OExchange</string>
+    <string name="title">Currency Converter</string>
+    <string name="logo_text">O Exchange</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="one">1000</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="btn_text">Get Exchange Rate</string>
+    <string-array name="spn_entities">
+        <item name="USA">USD</item>
+        <item name="Nigeria"> NGN</item>
+        <item name="India">INR</item>
+    </string-array>
+</resources>
